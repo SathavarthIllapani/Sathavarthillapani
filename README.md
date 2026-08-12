@@ -126,7 +126,7 @@ Data-science & reporting scenario submission (Visakhapatnam Port Container Telem
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SathavarthIllapani&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SathavarthIllapani&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 <br/>
@@ -137,7 +137,7 @@ Data-science & reporting scenario submission (Visakhapatnam Port Container Telem
 <img src="https://raw.githubusercontent.com/SathavarthIllapani/SathavarthIllapani/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </p>
 
-<sub>⚙️ This one needs a tiny one-time setup — a GitHub Action (`Platane/snk`) that generates the snake SVG and commits it to an `output` branch on a schedule. I can walk you through the workflow file if you want it wired up.</sub>
+<sub>⚙️ Generated automatically by the `snake.yml` workflow in `.github/workflows/`. If it looks broken, make sure the workflow has run at least once and the `output` branch exists.</sub>
 
 <br/>
 
