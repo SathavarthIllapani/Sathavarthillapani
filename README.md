@@ -113,7 +113,7 @@ Data-science & reporting scenario submission (Visakhapatnam Port Container Telem
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SathavarthIllapani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SathavarthIllapani&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SathavarthIllapani&theme=tokyonight&hide_border=true"/>
 </p>
 
