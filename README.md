@@ -114,7 +114,7 @@ Data-science & reporting scenario submission (Visakhapatnam Port Container Telem
 
 <p align="center">
 <img height="165" src="https://github-readme-stats-eight-mu-13.vercel.app/api?username=SathavarthIllapani&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"hide_border=true&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SathavarthIllapani&theme=tokyonight&hide_border=true"hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=SathavarthIllapani&theme=tokyonight&hide_border=true"hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -126,7 +126,6 @@ Data-science & reporting scenario submission (Visakhapatnam Port Container Telem
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SathavarthIllapani&theme=dracula&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 <br/>
