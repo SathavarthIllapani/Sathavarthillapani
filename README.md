@@ -113,8 +113,8 @@ Data-science & reporting scenario submission (Visakhapatnam Port Container Telem
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SathavarthIllapani&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SathavarthIllapani&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SathavarthIllapani&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SathavarthIllapani&theme=tokyonight&hide_border=true"hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Data-science & reporting scenario submission (Visakhapatnam Port Container Telem
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SathavarthIllapani&theme=tokyo-night&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SathavarthIllapani&theme=tokyo-night&hide_border=true"hide_border=true&cache_seconds=1800" width="100%" alt="activity graph"/>
 </p>
 
 <p align="center">
